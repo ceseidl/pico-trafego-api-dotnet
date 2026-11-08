@@ -1,0 +1,5 @@
+queue: bounded to 100 orders
+accepted (202): 426
+rejected (503): 1071
+waiting when the peak ended: 100
+slowest order waited: 1.6 s

@@ -1,0 +1,4 @@
+cache: warmed before the peak
+sent 5978  ok 5978  shed 0  timeout 0
+p50 31 ms  p95 59 ms  p99 86 ms
+database reads in the peak: 289

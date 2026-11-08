@@ -1,0 +1,1 @@
+Passed!  - Failed:     0, Passed:     3, Skipped:     0, Total:     3, Duration: 4 s - Holiday.Tests.dll (net10.0)

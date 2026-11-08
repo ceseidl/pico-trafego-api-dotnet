@@ -1,0 +1,7 @@
+this machine: 12 cores, .NET 10.0.13
+profile: ready
+peak: 600 requests/s for 8 s
+sent 4796  ok 4796  shed 0  timeout 0
+p50 32 ms  p95 56 ms  p99 69 ms
+database reads: 254
+max in flight: 69

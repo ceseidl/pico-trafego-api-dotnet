@@ -1,0 +1,5 @@
+queue: unbounded
+accepted (202): 1499
+rejected (503): 0
+waiting when the peak ended: 1177
+slowest order waited: 18.7 s

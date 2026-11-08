@@ -1,0 +1,5 @@
+recommendations: 150 ms deadline
+sent 499  ok 499  shed 0  timeout 0
+p50 157 ms  p95 189 ms  p99 205 ms
+served without suggestions: 499
+max requests in flight: 25

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Gotchas/Gotchas.csproj" />
+  <Project Path="Holiday.Core/Holiday.Core.csproj" />
+  <Project Path="Holiday.Tests/Holiday.Tests.csproj" />
+  <Project Path="LoadTest/LoadTest.csproj" />
+</Solution>

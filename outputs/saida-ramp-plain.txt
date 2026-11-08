@@ -1,0 +1,7 @@
+this machine: 12 cores, .NET 10.0.13
+profile: plain
+step      p95      ok    shed timeout  failed
+ 200/s     66 ms   100%     0%      0%      0%
+ 400/s   2395 ms   100%     0%      0%      0%
+ 800/s   3019 ms    34%     0%     65%      0%
+1600/s   6155 ms     7%     0%     21%     71%

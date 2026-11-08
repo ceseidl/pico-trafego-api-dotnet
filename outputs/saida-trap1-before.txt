@@ -1,0 +1,4 @@
+cache: empty when the peak starts
+sent 5995  ok 5995  shed 0  timeout 0
+p50 32 ms  p95 911 ms  p99 1025 ms
+database reads in the peak: 766
